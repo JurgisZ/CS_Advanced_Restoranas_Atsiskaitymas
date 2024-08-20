@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+5;BeverageItem;Coca-cola 0,33;3.0;;false
+6;BeverageItem;Sprite 0,33;3.0;;false
+7;BeverageItem;Lager 0,5 draft;5.0;;true
+8;BeverageItem;Guiness 0,5 draft;5.5;;true
+=======
+5;BeverageItem;Coca-cola 0,33;3.0;;false
+6;BeverageItem;Sprite 0,33;3.0;;false
+7;BeverageItem;Lager 0,5 draft;5.0;;true
+8;BeverageItem;Guiness 0,5 draft;5.5;;true
+>>>>>>> d4dd4eb98e19a735e7d127c13b936243d5e9c8aa
